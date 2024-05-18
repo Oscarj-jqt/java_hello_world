@@ -10,9 +10,21 @@ public class Variable {
 
         //Afficher la valeur de ces variables
 
-        System.out.println("La variable de in est: "+in+".");
-        System.out.println("La variable de byte est: "+in+".");
-        System.out.println("La variable de sh est: "+sh+".");
-        System.out.println("La variable de lg est: "+lg+".");
+        System.out.println("La valeur de in est: "+in+".");
+        System.out.println("La valeur de byte est: "+bt+".");
+        System.out.println("La valeur de sh est: "+sh+".");
+        System.out.println("La valeur de lg est: "+lg+".");
+
+        //type décimaux
+
+        float fl = 2.5f;
+        // On est obligé de rajouter le f pour le float
+
+        double db = 2.5;
+
+        //affichage
+
+        System.out.println("La valeur de fl est "+fl+".");
+        System.out.println("La valeur de db est "+db+".");
     }
 }
