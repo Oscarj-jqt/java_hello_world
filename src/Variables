@@ -1,0 +1,15 @@
+On déclare les variables avant son utilisation
+On lui donne ses caractéristiques
+Son placement :
+-dans une classe : variable d'instance
+-avant static dans une classe : variable de classe
+-dans une fonction : variable locale
+-args sont des variables locales
+
+Elle commence par une lettre, écrit en minuscule sauf lettre de chaque mot(MaJolieVariable).
+Pas d'espace,spéciaux
+
+Spécifier un type :
+-numériques: int, short, byte, long
+-décimaux: float, double
+-caractères: char
