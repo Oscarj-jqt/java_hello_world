@@ -1,0 +1,6 @@
+Ensemble de variable de même type differenciés par leur index.
+Premier élément  est 0.
+Le nombre de cases est la longueur.
+A la création, on déclare le type suvi des crochets puis le nom en pascalCase:
+Exemple:
+int[]chiffreAffaire;
