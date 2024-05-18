@@ -4,3 +4,8 @@ Le nombre de cases est la longueur.
 A la création, on déclare le type suvi des crochets puis le nom en pascalCase:
 Exemple:
 int[]chiffreAffaire;
+
+Tableau à 2 dimensions
+int[][] monTableau;
+monTableau = new int[3][2];
+taille de tableau : length pour avoir la taille sur la 1ère dimension
