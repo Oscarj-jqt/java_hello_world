@@ -1,4 +1,4 @@
-public class Caractères {
+public class CaracteresClasse {
     public static void main(String[] args) {
 
 

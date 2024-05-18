@@ -1,0 +1,5 @@
+Niveau d'accès, soit code autorisé à lire dans la variable:
+-private; lisible dans la classe manipulable juste avec des méthodes(fonctions)
+-protected; utilisable dans la classe définie, sous-classes et celle du même package
+-public; élément accessible partout sans restriction (classe Main toujours public)
+-static; transforme une variable d'instance(classe) en variable de classe (avant static)
