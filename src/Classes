@@ -1,8 +1,8 @@
 Java se déroule avec une classe, le conteneur qui contient des méthodes,
 les cartons avec à l'intérieur les objets, les instructions :
--class, conteneur
--méthodes, cartons
--instructions, objets
+-classe : conteneur
+-méthodes : cartons
+-instructions : objets
 
 Classe avec une majuscule. On écrit toujours main dedans à compléter automatiquement.
 
