@@ -1,3 +1,3 @@
 # learning_Java
 
-Apprentissage de Java en autodidacte
+Début d'apprentissage Java
